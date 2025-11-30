@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    Hi, I’m @MateuszStachniak
+<br>    Hi, I’m Mateusz
 <br>    I’m developer with 3 years of experience in enterprise development
 <br>    You can reach me trough my LinkedIn
 
