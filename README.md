@@ -15,16 +15,19 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <br>
+![JUnit](https://img.shields.io/badge/JUnit-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)
+![Mockito](https://img.shields.io/badge/Mockito-%236DB33F?style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-CB2029?style=for-the-badge)
 ![Bamboo](https://img.shields.io/badge/bamboo-%23172BF4.svg?style=for-the-badge&logo=bamboo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Artifactory](https://img.shields.io/badge/artifactory-%236DB33F.svg?style=for-the-badge&logo=artifactory&logoColor=white)
+![Artifactory](https://img.shields.io/badge/artifactory-%236DB33F.svg?style=for-the-badge&logo=jfrog&logoColor=white)
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=weblogic&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logoColor=white)
 <br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
